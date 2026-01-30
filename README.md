@@ -3,12 +3,12 @@
 
 This project implements **MotorFormer**, a Transformer-based deep learning model for EEG-based motor imagery classification. The model is designed to decode left-hand vs right-hand movement intentions from EEG signals, with applications in Brain-Computer Interfaces (BCI) and neurorehabilitation.
 
-## Set up
+## 💻 Set up
 ### Dataset
 You can download the dataset from [Dataset](https://doi.org/10.5524/100295) and place it in the EEG_data folder
 ### Installation
 ```bash
- 1. Clone repository
+1. Clone repository
 git clone https://github.com/yiwenchen617/MotorFormer.git
 cd MotorFormer
 
